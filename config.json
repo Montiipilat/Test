@@ -1,0 +1,12 @@
+{
+    "name": "sample-project",
+    "version": "1.0.0",
+    "description": "A sample project for GitHub Warmer",
+    "main": "main.py",
+    "scripts": {
+        "start": "python main.py"
+    },
+    "keywords": ["python", "sample", "github-warmer"],
+    "author": "GitHub Warmer",
+    "license": "MIT"
+}
